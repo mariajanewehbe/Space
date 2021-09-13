@@ -1,0 +1,5 @@
+Color: pink, x coordinate: -1, y coordinate: -3, side:6
+Color: red, x coordinate: 0, y coordinate: 1, radius: 1
+Color: blue, x coordinate: 2, y coordinate: 3, sides' length: 4
+Color: green, x coordinate: 4, y coordinate: 2, radius: 5
+Color: yellow, x coordinate: 5, y coordinate: -3, 3, 2, 5
